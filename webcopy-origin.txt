@@ -1,0 +1,32 @@
+Uri: https://zeus-company.tk/
+File Name: C:\Users\adana\OneDrive\Masaüstü\zeus-company.tk\index.htm
+Content Type: text/html
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css
+File Name: C:\Users\adana\OneDrive\Masaüstü\zeus-company.tk\ajax\libs\twitter-bootstrap\4.5.2\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://zeus-company.tk/plugins
+File Name: C:\Users\adana\OneDrive\Masaüstü\zeus-company.tk\plugins.html
+Content Type: text/html
+
+Uri: https://zeus-company.tk/settings
+File Name: C:\Users\adana\OneDrive\Masaüstü\zeus-company.tk\settings.html
+Content Type: text/html
+
+Uri: https://zeus-company.tk/slots
+File Name: C:\Users\adana\OneDrive\Masaüstü\zeus-company.tk\slots.html
+Content Type: text/html
+
+Uri: https://zeus-company.tk/check
+File Name: C:\Users\adana\OneDrive\Masaüstü\zeus-company.tk\check.html
+Content Type: text/html
+
+Uri: https://discord.com/users/767449979434172417
+File Name: C:\Users\adana\OneDrive\Masaüstü\zeus-company.tk\users\767449979434172417.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js
+File Name: C:\Users\adana\OneDrive\Masaüstü\zeus-company.tk\npm\darkmode-js@1.5.7\lib\darkmode-js.min.js
+Content Type: application/javascript
+

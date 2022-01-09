@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Scrim Bot Slots Sistemi</title>
+
+<link rel="stylesheet" href="ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
+<style>
+    body { padding-top:50px; }
+</style>
+<script src="npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+</head>
+<body class="container">
+<header>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link" href="index.htm">| Ana Sayfa |</a>
+</li> <li class="nav-item">
+<a class="nav-link" href="plugins.html">| Takımlar </a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="settings.html"> Result |</a>
+</li>
+<li class="active" class="nav-item">
+<a class="nav-link" href="slots.html">| Slots Sistemi |</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="check.html">| Check Sistemi |</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="users/767449979434172417.html">| Destek |</a>
+</li>
+</ul>
+</nav>
+</header>
+<center> <main>
+<div class="jumbotron">
+<h1>Lütfen Tüm Takımları giriniz!</h1>
+<h2>
+Sonrasında "Değişiklikleri Kaydet"e tıklayınız
+</h2>
+<br><br>
+<center> <form id="slots-form" method="POST" action="/slots">
+<label for="stakim1">Takim 1:</label>
+<input type="text" id="stakim1" name="stakim1" value="Crew" team="" female=""><br>
+<label for="stakim2">Takim 2:</label>
+<input type="text" id="stakim2" name="stakim2" value="RUT"><br>
+<label for="stakim3">Takim 3:</label>
+<input type="text" id="stakim3" name="stakim3" value="Virtual"><br>
+<label for="stakim4">Takim 4:</label>
+<input type="text" id="stakim4" name="stakim4" value="Team"><br>
+<label for="stakim5">Takim 5:</label>
+<input type="text" id="stakim5" name="stakim5" value="Crew"><br>
+<label for="stakim6">Takim 6:</label>
+<input type="text" id="stakim6" name="stakim6" value="PowerPuff"><br>
+<label for="stakim7">Takim 7:</label>
+<input type="text" id="stakim7" name="stakim7" value="Zenith"><br>
+<label for="stakim8">Takim 8:</label>
+<input type="text" id="stakim8" name="stakim8" value="1xs"><br>
+<label for="stakim9">Takim 9:</label>
+<input type="text" id="stakim9" name="stakim9" value="AllStarvsx"><br>
+<label for="stakim10">Takim 10:</label>
+<input type="text" id="stakim10" name="stakim10" value="New"><br>
+<label for="stakim11">Takim 11:</label>
+<input type="text" id="stakim11" name="stakim11" value="4x"><br>
+<label for="stakim12">Takim 12:</label>
+<input type="text" id="stakim12" name="stakim12" value="Digital"><br>
+<label for="stakim13">Takim 13:</label>
+<input type="text" id="stakim13" name="stakim13" value="Trabzon"><br>
+<label for="stakim14">Takim 14:</label>
+<input type="text" id="stakim14" name="stakim14" value="Sillage"><br>
+<label for="stakim15">Takim 15:</label>
+<input type="text" id="stakim15" name="stakim15" value="Great"><br>
+<label for="stakim16">Takim 16:</label>
+<input type="text" id="stakim16" name="stakim16" value="Fender"><br>
+<label for="stakim17">Takim 17:</label>
+<input type="text" id="stakim17" name="stakim17" value="LastRace"><br>
+<label for="stakim18">Takim 18:</label>
+<input type="text" id="stakim18" name="stakim18" value="Righteous"><br>
+<br>
+<input type="submit" style="width: 500px; height: 80px;" value="Değişiklikleri Kaydet"><br>
+</form> </center>
+</div>
+</main></center>
+<footer>
+<p class="text-center text-muted">Scrim Bot</p>
+<p class="text-center text-muted">© Tüm Hakları Gizlidir. Her türlü sistemi "Mert ☾#9999" tarafından hazırlanmıştır</p>
+</footer>
+<script>
+    const options = {
+        bottom: '64px', // default: '32px'
+        right: '32px', // default: '32px'
+        time: '1.5s', // default: '0.3s'
+        backgroundColor: '#fff',  // default: '#fff'
+        buttonColorDark: '#100f2c',  // default: '#100f2c'
+        buttonColorLight: '#fff', // default: '#fff'
+        saveInCookies: true, // default: true,
+        label: '🌓', // default: ''
+        autoMatchOsTheme: true // default: true
+      }
+      
+      const darkmode = new Darkmode(options);
+      darkmode.showWidget();
+  
+  
+</script>
+</body>
+</html>
